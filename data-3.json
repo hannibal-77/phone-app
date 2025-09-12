@@ -1,0 +1,192 @@
+{
+  "movies": [
+    {
+      "id": "movie-01",
+      "title": "فيلم أكشن: الهروب الكبير",
+      "poster": "https://picsum.photos/seed/json1/400/600",
+      "description": "عميل سابق يُجبر على العودة من تقاعده لإنقاذ عائلته من منظمة خطيرة تسعى للانتقام.",
+      "servers": [
+        {
+          "name": "سيرفر A (جودة عالية)",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "name": "سيرفر B (جودة متوسطة)",
+          "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo"
+        }
+      ]
+    },
+    {
+      "id": "movie-02",
+      "title": "فيلم دراما: أصداء الماضي",
+      "poster": "https://picsum.photos/seed/json2/400/600",
+      "description": "كاتب مشهور يواجه أشباح ماضيه عندما يعود إلى مسقط رأسه بعد غياب طويل.",
+      "servers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://www.dailymotion.com/video/x84sh87"
+        }
+      ]
+    },
+    {
+      "id": "movie-03",
+      "title": "خيال علمي: بوابة النجوم",
+      "poster": "https://picsum.photos/seed/json3/400/600",
+      "description": "فريق من المستكشفين يعثرون على بوابة أثرية تنقلهم إلى مجرة بعيدة مليئة بالعجائب والأخطار.",
+      "servers": [
+        {
+          "name": "شاهد الآن (سيرفر 1)",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        }
+      ]
+    },
+    {
+      "id": "movie-04",
+      "title": "كوميدي: ورطة عائلية",
+      "poster": "https://picsum.photos/seed/json4/400/600",
+      "description": "تتحول إجازة عائلية هادئة إلى فوضى عارمة بعد سلسلة من المواقف المحرجة والمصادفات الغريبة.",
+      "servers": [
+        {
+          "name": "مشاهدة على يوتيوب",
+          "url": "https://www.youtube.com/watch?v=LXb3EKWsInQ"
+        }
+      ]
+    },
+    {
+      "id": "movie-05",
+      "title": "أنيميشن: جزيرة الأحلام",
+      "poster": "https://picsum.photos/seed/json5/400/600",
+      "description": "فتاة صغيرة تكتشف خريطة سرية تقودها إلى جزيرة أسطورية حيث تتحقق كل الأحلام.",
+      "servers": [
+        {
+          "name": "تشغيل مباشر",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": "series-01",
+      "title": "مسلسل الجريمة: المحقق",
+      "poster": "https://picsum.photos/seed/jsons1/400/600",
+      "description": "محقق لامع لكن مضطرب يحل أعقد القضايا في المدينة بينما يطارده لغز من ماضيه الشخصي.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: القضية الأولى",
+              "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA"
+            },
+            {
+              "name": "الحلقة 2: الشاهد الصامت",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "name": "الحلقة 1: عودة الظلال",
+              "url": "https://www.dailymotion.com/video/x7p62z1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "series-02",
+      "title": "مسلسل تاريخي: صعود الإمبراطورية",
+      "poster": "https://picsum.photos/seed/jsons2/400/600",
+      "description": "ملحمة تاريخية تروي قصة صعود وسقوط إمبراطورية قديمة عبر الأجيال.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: البدايات",
+              "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I"
+            },
+            {
+              "name": "الحلقة 2: التوسع",
+              "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s"
+            },
+            {
+              "name": "الحلقة 3: الخيانة",
+              "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "series-03",
+      "title": "مسلسل قصير: الرحلة الأخيرة",
+      "poster": "https://picsum.photos/seed/jsons3/400/600",
+      "description": "مسلسل قصير من 4 حلقات يتابع مجموعة من الأصدقاء في رحلة أخيرة قبل أن تفرقهم الحياة.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: الوعد",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "name": "الحلقة 2: الطريق",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+            },
+            {
+              "name": "الحلقة 3: العاصفة",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+            },
+            {
+              "name": "الحلقة 4: الوداع",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sports": {
+    "live": [
+      {
+        "title": "قناة رياضية 1 (مباشر)",
+        "poster": "https://picsum.photos/seed/sp1/400/600",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      },
+      {
+        "title": "قناة رياضية 2 (مباشر)",
+        "poster": "https://picsum.photos/seed/sp2/400/600",
+        "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+      }
+    ],
+    "highlights": [
+      {
+        "title": "ملخص أهداف اليوم",
+        "poster": "https://picsum.photos/seed/hl1/400/600",
+        "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA"
+      },
+      {
+        "title": "أجمل اللقطات",
+        "poster": "https://picsum.photos/seed/hl2/400/600",
+        "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s"
+      }
+    ],
+    "fullMatches": [
+      {
+        "title": "مباراة كلاسيكو 2023",
+        "poster": "https://picsum.photos/seed/fm1/400/600",
+        "url": "https://www.dailymotion.com/video/x8c8o6y"
+      },
+      {
+        "title": "نهائي البطولة 2022",
+        "poster": "https://picsum.photos/seed/fm2/400/600",
+        "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I"
+      }
+    ]
+  }
+}```
