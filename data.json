@@ -30,13 +30,6 @@
     }
   ],
   "series": [
-        {
-          "season_number": 2,
-          "episodes": [
-            {
-              "name": "الحلقة 1: عودة غير متوقعة",
-              "url": "https://www.dailymotion.com/video/x7p62z1"
-            },
     {
       "id": "series-01",
       "title": "المسلسل الأول (ملف محلي)",
