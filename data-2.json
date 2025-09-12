@@ -1,0 +1,81 @@
+{
+  "movies": [
+    {
+      "id": "movie-01",
+      "title": "فيلم أكشن (من المصدر)",
+      "poster": "https://picsum.photos/seed/json1/400/600",
+      "description": "هذا الوصف قادم من ملف JSON. تدور أحداث الفيلم حول مغامرة مثيرة.",
+      "servers": [
+        {
+          "name": "سيرفر A (جودة عالية)",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "name": "سيرفر B (جودة متوسطة)",
+          "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": "series-01",
+      "title": "المسلسل الأول (من المصدر)",
+      "poster": "https://picsum.photos/seed/jsons1/400/600",
+      "description": "وصف المسلسل الأول الذي تم تحميله من ملف JSON الموحد.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: بداية جديدة",
+              "url": "https://www.youtube.com/watch?v=LXb3EKWsInQ"
+            },
+            {
+              "name": "الحلقة 2: التحدي الأكبر",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sports": {
+    "live": [
+      {
+        "title": "قناة رياضية 1 (مباشر)",
+        "poster": "https://picsum.photos/seed/sp1/400/600",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      },
+      {
+        "title": "قناة رياضية 2 (مباشر)",
+        "poster": "https://picsum.photos/seed/sp2/400/600",
+        "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+      }
+    ],
+    "highlights": [
+      {
+        "title": "ملخص أهداف اليوم",
+        "poster": "https://picsum.photos/seed/hl1/400/600",
+        "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA"
+      },
+      {
+        "title": "أجمل اللقطات",
+        "poster": "https://picsum.photos/seed/hl2/400/600",
+        "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s"
+      }
+    ],
+    "fullMatches": [
+      {
+        "title": "مباراة كلاسيكو 2023",
+        "poster": "https://picsum.photos/seed/fm1/400/600",
+        "url": "https://www.dailymotion.com/video/x8c8o6y"
+      },
+      {
+        "title": "نهائي البطولة 2022",
+        "poster": "https://picsum.photos/seed/fm2/400/600",
+        "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I"
+      }
+    ]
+  }
+}
