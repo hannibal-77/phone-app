@@ -2,13 +2,14 @@
   "movies": [
     {
       "id": "movie-01",
-      "title": "فيلم أكشن: الهروب الكبير",
-      "poster": "https://picsum.photos/seed/json1/400/600",
-      "description": "عميل سابق يُجبر على العودة من تقاعده لإنقاذ عائلته من منظمة خطيرة تسعى للانتقام.",
+      "title": "Dubai Bling",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0Qya9zSy8NdB-nfCy-DROEHFVUZj82K4hw&s",
+      "description": "
+برنامج "دبي بلينغ" هو مسلسل تلفزيوني واقعي ثنائي اللغة يُعرض على نتفليكس ويتناول حياة مجموعة من المليونيرات المقيمين في دبي . يعرض البرنامج تفاصيل حياتهم اليومية، بما في ذلك ممتلكاتهم، علاقاتهم، وأسلوب حياتهم الفاخر . أنتج الموسم الأول بواسطة جريج ويلر وصدر في أكتوبر 2022،",
       "servers": [
         {
           "name": "سيرفر A (جودة عالية)",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          "url": "https://egy36dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00106/6mxk842hyhzi_,l,n,h,.urlset/master.m3u8?t=1tGvsNZf27-9nRITSGtsO7cSiGgpnbUgR-tNzjwgGnI&s=1757959024&e=43200&f=532440&i=0.0&sp=0"
         },
         {
           "name": "سيرفر B (جودة متوسطة)",
@@ -154,17 +155,17 @@
   "sports": {
     "live": [
       {
-        "title": "قناة رياضية 1 (مباشر)",
-        "poster": "https://picsum.photos/seed/sp1/400/600",
-        "description": "القناة الرئيسية لتغطية أهم المباريات والأحداث الرياضية على الهواء مباشرة.",
+        "title": "Burkinafasso Vs Egypt",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsxO3SpGauoMs8EnPTgWEkT0oPJ7WzGpnuA&s",
+        "description": "مباراة بوركينافاسو و مصر تصفيات كاس العالم 2026",
         "servers": [
-          { "name": "تشغيل السيرفر الأول", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+          { "name": "تشغيل السيرفر الأول", "url": "https://geo.dailymotion.com/player/xaikw.html?video=x9qa844" },
           { "name": "تشغيل السيرفر الثاني", "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8" }
         ]
       },
       {
-        "title": "قناة رياضية 2 (مباشر)",
-        "poster": "https://picsum.photos/seed/sp2/400/600",
+        "title": "Bein Sport",
+        "poster": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "description": "قناة متخصصة في التحليلات الرياضية والبرامج الحوارية مع تغطية حية لمباريات مختارة.",
         "servers": [
           { "name": "تشغيل السيرفر الأول", "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8" },
