@@ -167,8 +167,8 @@
         "poster": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "description": "قناة متخصصة في التحليلات الرياضية والبرامج الحوارية مع تغطية حية لمباريات مختارة.",
         "servers": [
-          { "name": "تشغيل السيرفر الأول", "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8" },
-          { "name": "تشغيل السيرفر الثاني", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
+          { "name": "تشغيل السيرفر الأول", "url": "https://www.dailymotion.com/video/x9qj7k6" },
+          { "name": "تشغيل السيرفر الثاني", "url": "https://www.dailymotion.com/video/x9qj7k4" }
         ]
       }
     ],
