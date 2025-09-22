@@ -12,8 +12,7 @@
         },
         {
           "name": "سيرفر B (جودة متوسطة)",
-          "url": "https://egy36dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00106/6mxk842hyhzi_h/seg-4-v1-a1.ts?t=Q9CVXSM8k7eMeAEgUXNSrachQCHzcrXEr_I8EbHQt0A&s=1758036593&e=43200&f=532440&i=0.0&sp=0"
-
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
       ]
     },
@@ -163,7 +162,6 @@
           { "name": "الشوط الثاني", "url": "https://www.dailymotion.com/video/x9qt6ys" }
         ]
       },
-
       {
         "title": "New castel Vs Barcalone",
         "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitZN-xiWtXt5VTu_moppQ29c4tUqEdT-_JiiUoRS9B0z_Mbgf5vXt9k2f8zCQnFibHfaaEOPP_FGwzIMKazk1hLqd1HuARSQMmpm2l4whXrs_MWnrt_3MmvGfDXzXjgMsd-tQeflmrYOCj0zYR2e3YJjSWSPp039CoKz_vqDgUYkqgN-ctWLoJDr-qAUhB/s320-rw/mshireb-1758185335.webp",
@@ -173,29 +171,21 @@
           { "name": "الشوط الثاني", "url": "https://www.dailymotion.com/video/x9qt5ho" }
         ]
       },
-     {
-  "sports": {
-    "live": [
       {
         "title": "psg Vs atalanta",
-        "poster": "...",
-        "description": "مباراة...",
+        "poster": "https://i.ytimg.com/vi/_Y-a_C_h-r0/maxresdefault.jpg",
+        "description": "مباراة باريس سان جيرمان واتلانتا",
         "servers": [
           {
-            "name": "سيرفر VK",
-            "url": "<iframe src='https://vk.com/video_ext.php?oid=-230236217&id=456239070' width='853' height='480' allowfullscreen></iframe>"
+            "name": "سيرفر VK (تضمين)",
+            "url": "<iframe src=\"https://vk.com/video_ext.php?oid=-230236217&id=456239070\" width=\"853\" height=\"480\" allowfullscreen></iframe>"
           },
           {
-            "name": "سيرفر مباشر",
-            "url": "https://example.com/live.m3u8"
+            "name": "سيرفر مباشر (مثال)",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
           }
         ]
-      }
-    ]
-  }
-},
-
-
+      },
       {
         "title": "Bein Sport",
         "poster": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
@@ -215,15 +205,6 @@
           { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA" },
           { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" }
         ]
-      },
-      {
-        "title": "أجمل اللقطات",
-        "poster": "https://picsum.photos/seed/hl2/400/600",
-        "description": "مجموعة من أفضل المهارات واللقطات الفنية من مختلف الملاعب العالمية.",
-        "servers": [
-          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s" },
-          { "name": "مشاهدة (سيرفر بديل)", "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I" }
-        ]
       }
     ],
     "fullMatches": [
@@ -232,17 +213,7 @@
         "poster": "https://picsum.photos/seed/fm1/400/600",
         "description": "المباراة الكاملة للكلاسيكو المثير الذي جمع بين الغريمين التقليديين في عام 2023.",
         "servers": [
-          { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" },
-          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo" }
-        ]
-      },
-      {
-        "title": "نهائي البطولة 2022",
-        "poster": "https://picsum.photos/seed/fm2/400/600",
-        "description": "تابع أحداث المباراة النهائية لبطولة 2022 والتي حسمت في الدقائق الأخيرة.",
-        "servers": [
-          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I" },
-          { "name": "مشاهدة (سيرفر 2)", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
+          { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" }
         ]
       }
     ]
