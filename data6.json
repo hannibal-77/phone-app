@@ -210,8 +210,10 @@
           {
             "name": "سيرفر مباشر (مثال)",
             "url": "<iframe width=\"560\" height=\"315\" src=\"https://ok.ru/videoembed/9941681965814?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
-          },
-          {
+          }
+        ]
+      },
+      {
         "title": "Bayern munch Vs Chelsea",
         "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAT5rmAfj2Y84PdiarKDOn2XjyG6BOusZcB12Fs50ozUKyqUXgBdjxibgaYq-CsN49EpQrdXY8Jm9grEEy_qnr8Wl8F7lINmo9hrMjZx5_d3oqSUpflov-cwBroG5OkR0emzEFRlUnwhT0tmqhibp9c94Q8Q55wnWXHSlTwVNMowKCkAxOQAhkyg_XHqzs/s320-rw/03967de0-923d-11f0-9cf6-cbf3e73ce2b9.png",
         "description": "مباراة بايرن ميونيخ و تشيلسي دوري ابطال اوروبا 2025/2026",
@@ -221,65 +223,4 @@
             "url": "<iframe src=\"https://vk.com/video_ext.php?oid=-230236217&id=456239068\" width=\"853\" height=\"480\" allowfullscreen></iframe>"
           },
           {
-            "name": "الشوط الاول (تعليق عربي) server(2)",
-            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/Z5LKHG1sP2Ntv\" frameborder=\"0\" allowfullscreen></iframe>"
-          },
-          {
-            "name": "الشوط الثاني(تعليق عربي) server(2)",
-            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/pZ9FVCgEuxbdJ\" frameborder=\"0\" allowfullscreen></iframe>"
-          }
-        ]
-      },
-      {
-        "title": "Liverpool Vs Atl.Madrid",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixm5alQREaINin8Uvqs0NdprFdbOJmCRZ8HowddCYHWmsxIk3Z6vZHn3IxXa1xqbchf5659fMv4mJ_OPiwbj5vIBBrbprvVWJ5lZm1sD6D0LNaY7Co4w-KwSadAWOMb_-H38ZGbRdzfadZ9878-ieVOqmLyiEbE1U7qzw6W_Ep_r9_6A_-XbweHzwbaAIj/s320-rw/342265.webp",
-        "description": "مباراة ليفربول و اتلتيكو مدريد دوري ابطال اوروبا  2025/2026",
-        "servers": [
-          {
-            "name": "تعليق اجنبي server(1)",
-            "url": "<iframe width=\"560\" height=\"315\" src=\"https://ok.ru/videoembed/9461195541244?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
-          },
-          {
-            "name": "الشوط الاول (تعليق عربي) server(2)",
-            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/8y9sGpCYQV421\" frameborder=\"0\" allowfullscreen></iframe>"
-          },
-          {
-            "name": "الشوط الثاني(تعليق عربي) server(2)",
-            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/OKCP8E5vdxye7\" frameborder=\"0\" allowfullscreen></iframe>"
-          }
-        ]
-      },
-
-      {
-        "title": "Bein Sport",
-        "poster": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "description": "قناة متخصصة في التحليلات الرياضية والبرامج الحوارية مع تغطية حية لمباريات مختارة.",
-        "servers": [
-          { "name": "تشغيل السيرفر الأول", "url": "https://www.dailymotion.com/video/x9qj7k6" },
-          { "name": "تشغيل السيرفر الثاني", "url": "https://www.dailymotion.com/video/x9qj7k4" }
-        ]
-      }
-    ],
-    "highlights": [
-      {
-        "title": "ملخص أهداف اليوم",
-        "poster": "https://picsum.photos/seed/hl1/400/600",
-        "description": "شاهد جميع أهداف المباريات التي أقيمت اليوم في فيديو واحد مجمع.",
-        "servers": [
-          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA" },
-          { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" }
-        ]
-      }
-    ],
-    "fullMatches": [
-      {
-        "title": "مباراة كلاسيكو 2023",
-        "poster": "https://picsum.photos/seed/fm1/400/600",
-        "description": "المباراة الكاملة للكلاسيكو المثير الذي جمع بين الغريمين التقليديين في عام 2023.",
-        "servers": [
-          { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" }
-        ]
-      }
-    ]
-  }
-}
+            "name": "الشوط ال
