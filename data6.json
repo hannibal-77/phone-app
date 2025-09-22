@@ -195,7 +195,7 @@
         "description": "مباراة نيوكاستل و برشلونة دوري ابطال اوروبا 2025/2026",
         "servers": [
           { "name": "الشوط الاول", "url": "https://www.dailymotion.com/video/x9qt4fc" },
-          { "name": "الشوط الثاني", "url": "https://www.dailymotion.com/video/x9qt5ho" }
+          { "name": "الشوط الثاني", "url": "https://www.dailymotion.com/video/x9qt5h0" }
         ]
       },
       {
@@ -204,11 +204,11 @@
         "description": "مباراة باريس سان جيرمان واتلانتا",
         "servers": [
           {
-            "name": "سيرفر VK (تضمين)",
+            "name": "سيرفر VK تعليق اجنبي server(1)",
             "url": "<iframe src=\"https://vk.com/video_ext.php?oid=-230236217&id=456239070\" width=\"853\" height=\"480\" allowfullscreen></iframe>"
           },
           {
-            "name": "سيرفر مباشر (مثال)",
+            "name": "سيرفر (تعليق عربي)",
             "url": "<iframe width=\"560\" height=\"315\" src=\"https://ok.ru/videoembed/9941681965814?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
           }
         ]
