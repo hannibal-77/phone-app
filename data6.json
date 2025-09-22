@@ -199,7 +199,7 @@
         ]
       },
       {
-        "title": "psg Vs atalanta",
+        "title": "Psg Vs Atalanta",
         "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RcIAULJ-4_D9pgN2FDEN6ckvljq1tR-foCFnwlgdaQt6_MRMsU8463V6NPsOj_pVn5ynGHlj-bw0oRx-4c_5jTLaUrHPF-BZs8ses3jUbMD0U40ceB_4lIRLuI46XoySwxQVDJNbh6mmORS0g1uN0DlmDYOdhCoYsOhiHNhyphenhyphenlzoI8vRGyaSNDjRWXOzu/s320-rw/370.jpg",
         "description": "مباراة باريس سان جيرمان واتلانتا",
         "servers": [
@@ -209,10 +209,47 @@
           },
           {
             "name": "سيرفر مباشر (مثال)",
-            "url": "<iframe width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/9941681965814?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
+            "url": "<iframe width=\"560\" height=\"315\" src=\"https://ok.ru/videoembed/9941681965814?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
+          },
+          {
+        "title": "Bayern munch Vs Chelsea",
+        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAT5rmAfj2Y84PdiarKDOn2XjyG6BOusZcB12Fs50ozUKyqUXgBdjxibgaYq-CsN49EpQrdXY8Jm9grEEy_qnr8Wl8F7lINmo9hrMjZx5_d3oqSUpflov-cwBroG5OkR0emzEFRlUnwhT0tmqhibp9c94Q8Q55wnWXHSlTwVNMowKCkAxOQAhkyg_XHqzs/s320-rw/03967de0-923d-11f0-9cf6-cbf3e73ce2b9.png",
+        "description": "مباراة بايرن ميونيخ و تشيلسي دوري ابطال اوروبا 2025/2026",
+        "servers": [
+          {
+            "name": "تعليق اجنبي server(1)",
+            "url": "<iframe src=\"https://vk.com/video_ext.php?oid=-230236217&id=456239068\" width=\"853\" height=\"480\" allowfullscreen></iframe>"
+          },
+          {
+            "name": "الشوط الاول (تعليق عربي) server(2)",
+            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/Z5LKHG1sP2Ntv\" frameborder=\"0\" allowfullscreen></iframe>"
+          },
+          {
+            "name": "الشوط الثاني(تعليق عربي) server(2)",
+            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/pZ9FVCgEuxbdJ\" frameborder=\"0\" allowfullscreen></iframe>"
           }
         ]
       },
+      {
+        "title": "Liverpool Vs Atl.Madrid",
+        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixm5alQREaINin8Uvqs0NdprFdbOJmCRZ8HowddCYHWmsxIk3Z6vZHn3IxXa1xqbchf5659fMv4mJ_OPiwbj5vIBBrbprvVWJ5lZm1sD6D0LNaY7Co4w-KwSadAWOMb_-H38ZGbRdzfadZ9878-ieVOqmLyiEbE1U7qzw6W_Ep_r9_6A_-XbweHzwbaAIj/s320-rw/342265.webp",
+        "description": "مباراة ليفربول و اتلتيكو مدريد دوري ابطال اوروبا  2025/2026",
+        "servers": [
+          {
+            "name": "تعليق اجنبي server(1)",
+            "url": "<iframe width=\"560\" height=\"315\" src=\"https://ok.ru/videoembed/9461195541244?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
+          },
+          {
+            "name": "الشوط الاول (تعليق عربي) server(2)",
+            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/8y9sGpCYQV421\" frameborder=\"0\" allowfullscreen></iframe>"
+          },
+          {
+            "name": "الشوط الثاني(تعليق عربي) server(2)",
+            "url": "<iframe width=\"640\" height=\"360\" src=\"https://streamup.ws/OKCP8E5vdxye7\" frameborder=\"0\" allowfullscreen></iframe>"
+          }
+        ]
+      },
+
       {
         "title": "Bein Sport",
         "poster": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
