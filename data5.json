@@ -1,0 +1,250 @@
+{
+  "movies": [
+    {
+      "id": "movie-01",
+      "title": "Dubai Bling",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0Qya9zSy8NdB-nfCy-DROEHFVUZj82K4hw&s",
+      "description": "Dubai Bling",
+      "servers": [
+        {
+          "name": "سيرفر A (جودة عالية)",
+          "url": "https://egy36dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00106/6mxk842hyhzi_,l,n,h,.urlset/master.m3u8?t=1tGvsNZf27-9nRITSGtsO7cSiGgpnbUgR-tNzjwgGnI&s=1757959024&e=43200&f=532440&i=0.0&sp=0"
+        },
+        {
+          "name": "سيرفر B (جودة متوسطة)",
+          "url": "https://egy36dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00106/6mxk842hyhzi_h/seg-4-v1-a1.ts?t=Q9CVXSM8k7eMeAEgUXNSrachQCHzcrXEr_I8EbHQt0A&s=1758036593&e=43200&f=532440&i=0.0&sp=0"
+
+        }
+      ]
+    },
+    {
+      "id": "movie-02",
+      "title": "فيلم دراما: أصداء الماضي",
+      "poster": "https://picsum.photos/seed/json2/400/600",
+      "description": "كاتب مشهور يواجه أشباح ماضيه عندما يعود إلى مسقط رأسه بعد غياب طويل.",
+      "servers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://www.dailymotion.com/video/x84sh87"
+        }
+      ]
+    },
+    {
+      "id": "movie-03",
+      "title": "خيال علمي: بوابة النجوم",
+      "poster": "https://picsum.photos/seed/json3/400/600",
+      "description": "فريق من المستكشفين يعثرون على بوابة أثرية تنقلهم إلى مجرة بعيدة مليئة بالعجائب والأخطار.",
+      "servers": [
+        {
+          "name": "شاهد الآن (سيرفر 1)",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        }
+      ]
+    },
+    {
+      "id": "movie-04",
+      "title": "كوميدي: ورطة عائلية",
+      "poster": "https://picsum.photos/seed/json4/400/600",
+      "description": "تتحول إجازة عائلية هادئة إلى فوضى عارمة بعد سلسلة من المواقف المحرجة والمصادفات الغريبة.",
+      "servers": [
+        {
+          "name": "مشاهدة على يوتيوب",
+          "url": "https://www.youtube.com/watch?v=LXb3EKWsInQ"
+        }
+      ]
+    },
+    {
+      "id": "movie-05",
+      "title": "أنيميشن: جزيرة الأحلام",
+      "poster": "https://picsum.photos/seed/json5/400/600",
+      "description": "فتاة صغيرة تكتشف خريطة سرية تقودها إلى جزيرة أسطورية حيث تتحقق كل الأحلام.",
+      "servers": [
+        {
+          "name": "تشغيل مباشر",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": "series-01",
+      "title": "مسلسل الجريمة: المحقق",
+      "poster": "https://picsum.photos/seed/jsons1/400/600",
+      "description": "محقق لامع لكن مضطرب يحل أعقد القضايا في المدينة بينما يطارده لغز من ماضيه الشخصي.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: القضية الأولى",
+              "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA"
+            },
+            {
+              "name": "الحلقة 2: الشاهد الصامت",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "name": "الحلقة 1: عودة الظلال",
+              "url": "https://www.dailymotion.com/video/x7p62z1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "series-02",
+      "title": "مسلسل تاريخي: صعود الإمبراطورية",
+      "poster": "https://picsum.photos/seed/jsons2/400/600",
+      "description": "ملحمة تاريخية تروي قصة صعود وسقوط إمبراطورية قديمة عبر الأجيال.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: البدايات",
+              "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I"
+            },
+            {
+              "name": "الحلقة 2: التوسع",
+              "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s"
+            },
+            {
+              "name": "الحلقة 3: الخيانة",
+              "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "series-03",
+      "title": "مسلسل قصير: الرحلة الأخيرة",
+      "poster": "https://picsum.photos/seed/jsons3/400/600",
+      "description": "مسلسل قصير من 4 حلقات يتابع مجموعة من الأصدقاء في رحلة أخيرة قبل أن تفرقهم الحياة.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة 1: الوعد",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "name": "الحلقة 2: الطريق",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+            },
+            {
+              "name": "الحلقة 3: العاصفة",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+            },
+            {
+              "name": "الحلقة 4: الوداع",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sports": {
+    "live": [
+      {
+        "title": "munchester city Vs napoli",
+        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKJniS3PYi_ukmISTGQA-Hy0iZMyP__Ptr_48_968bYAmNw9wAamrYcEEW7IvtM2f6cU8Vbr7maDeM1DlmZ3W59huOSsk5p42gwtwCNI4BJ6QdGt4dGOjStQCH3xvSw1dDhocRkH4KgOQza0rAik5SuNjjiXRMwXZabExWB5fpuj5eHK7_ezXqXKyymdX/s320-rw/342487.webp",
+        "description": "مباراة مانشستر سيتي و نابولي دوري ابطال اوروبا 2026",
+        "servers": [
+          { "name": "الشوط الاول", "url": "https://www.dailymotion.com/video/x9qt6yq" },
+          { "name": "الشوط الثاني", "url": "https://www.dailymotion.com/video/x9qt6ys" }
+        ]
+      },
+
+      {
+        "title": "New castel Vs Barcalone",
+        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitZN-xiWtXt5VTu_moppQ29c4tUqEdT-_JiiUoRS9B0z_Mbgf5vXt9k2f8zCQnFibHfaaEOPP_FGwzIMKazk1hLqd1HuARSQMmpm2l4whXrs_MWnrt_3MmvGfDXzXjgMsd-tQeflmrYOCj0zYR2e3YJjSWSPp039CoKz_vqDgUYkqgN-ctWLoJDr-qAUhB/s320-rw/mshireb-1758185335.webp",
+        "description": "مباراة نيوكاستل و برشلونة دوري ابطال اوروبا 2025/2026",
+        "servers": [
+          { "name": "الشوط الاول", "url": "https://www.dailymotion.com/video/x9qt4fc" },
+          { "name": "الشوط الثاني", "url": "https://www.dailymotion.com/video/x9qt5ho" }
+        ]
+      },
+     {
+  "sports": {
+    "live": [
+      {
+        "title": "psg Vs atalanta",
+        "poster": "...",
+        "description": "مباراة...",
+        "servers": [
+          {
+            "name": "سيرفر VK",
+            "url": "<iframe src='https://vk.com/video_ext.php?oid=-230236217&id=456239070' width='853' height='480' allowfullscreen></iframe>"
+          },
+          {
+            "name": "سيرفر مباشر",
+            "url": "https://example.com/live.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+},
+
+
+      {
+        "title": "Bein Sport",
+        "poster": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "description": "قناة متخصصة في التحليلات الرياضية والبرامج الحوارية مع تغطية حية لمباريات مختارة.",
+        "servers": [
+          { "name": "تشغيل السيرفر الأول", "url": "https://www.dailymotion.com/video/x9qj7k6" },
+          { "name": "تشغيل السيرفر الثاني", "url": "https://www.dailymotion.com/video/x9qj7k4" }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "title": "ملخص أهداف اليوم",
+        "poster": "https://picsum.photos/seed/hl1/400/600",
+        "description": "شاهد جميع أهداف المباريات التي أقيمت اليوم في فيديو واحد مجمع.",
+        "servers": [
+          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=iF2MdbrpoSA" },
+          { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" }
+        ]
+      },
+      {
+        "title": "أجمل اللقطات",
+        "poster": "https://picsum.photos/seed/hl2/400/600",
+        "description": "مجموعة من أفضل المهارات واللقطات الفنية من مختلف الملاعب العالمية.",
+        "servers": [
+          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s" },
+          { "name": "مشاهدة (سيرفر بديل)", "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I" }
+        ]
+      }
+    ],
+    "fullMatches": [
+      {
+        "title": "مباراة كلاسيكو 2023",
+        "poster": "https://picsum.photos/seed/fm1/400/600",
+        "description": "المباراة الكاملة للكلاسيكو المثير الذي جمع بين الغريمين التقليديين في عام 2023.",
+        "servers": [
+          { "name": "مشاهدة (ديلي موشن)", "url": "https://www.dailymotion.com/video/x8c8o6y" },
+          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo" }
+        ]
+      },
+      {
+        "title": "نهائي البطولة 2022",
+        "poster": "https://picsum.photos/seed/fm2/400/600",
+        "description": "تابع أحداث المباراة النهائية لبطولة 2022 والتي حسمت في الدقائق الأخيرة.",
+        "servers": [
+          { "name": "مشاهدة (يوتيوب)", "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I" },
+          { "name": "مشاهدة (سيرفر 2)", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
+        ]
+      }
+    ]
+  }
+}
