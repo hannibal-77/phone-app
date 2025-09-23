@@ -30,7 +30,6 @@
           "name": "سيرفر B (480 جودة متوسطة)",
           "url": "https://af3.downet.net/download/1758714103/68d28777eb7c9/John.Wick.Chapter.4.2023.480p.WEBRip.aflaaam.com.mp4"
         }
-
       ]
     },
     {
@@ -47,18 +46,21 @@
           "name": "سيرفر B (480 جودة متوسطة)",
           "url": "https://af2.downet.net/download/1758740324/68d2ede45b1f5/Sicario.Day.Of.The.Soldado.2018.480p.BluRay.aflaam.com.mp4"
         }
-
       ]
     },
     {
       "id": "movie-04",
-      "title": "كوميدي: ورطة عائلية",
-      "poster": "https://picsum.photos/seed/json4/400/600",
-      "description": "تتحول إجازة عائلية هادئة إلى فوضى عارمة بعد سلسلة من المواقف المحرجة والمصادفات الغريبة.",
+      "title": "Den of Thieves",
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/Qmezc.jpeg",
+      "description": "ملحمة جريئة من نوع L.A ، تتبع الحياة المتداخلة والمتصلة شخصيًا في كثير من الأحيان لوحدة النخبة في قسم شريف مقاطعة لوس أنجلوس وطاقم السطو على البنوك الأكثر نجاحًا في الولاية ، حيث يخطط الخارجون عن القانون لسرقة مستحيلة في البنك الاحتياطي الفيدرالي في وسط مدينة لوس أنجلوس.",
       "servers": [
         {
-          "name": "مشاهدة على يوتيوب",
-          "url": "https://www.youtube.com/watch?v=LXb3EKWsInQ"
+          "name": "سيرفر A (720 جودة عالية)",
+          "url": "https://af2.downet.net/download/1758740837/68d2efe586797/Den.Of.Thieves.2018.720p.BluRay.aflaam.com.mp4"
+        },
+        {
+          "name": "سيرفر B (480 جودة متوسطة)",
+          "url": "https://af2.downet.net/download/1758740836/68d2efe4a6b3e/Den.Of.Thieves.2018.480p.BluRay.aflaam.com.mp4"
         }
       ]
     },
