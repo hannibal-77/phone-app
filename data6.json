@@ -2,17 +2,17 @@
   "movies": [
     {
       "id": "movie-01",
-      "title": "Dubai Bling",
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0Qya9zSy8NdB-nfCy-DROEHFVUZj82K4hw&s",
-      "description": "Dubai Bling",
+      "title": "Malcolm X",
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/kwTmE.jpeg",
+      "description": "ملحمة السيرة الذاتية لمالكولم إكس، الزعيم الأمريكي الأفريقي الأسطوري. ولد مالكولم ليتل، قُتل والده (وزير معمداني غارفيي) على يد كو كلوكس كلان. أصبح مالكولم رجل عصابات، وأثناء وجوده في السجن اكتشف كتابات أمة الإسلام لإيليا محمد. يبشر بالتعاليم عند خروجه من السجن، لكنه يذهب لاحقًا إلى الحج إلى مدينة مكة، وهناك يتحول إلى الدين الإسلامي الأصلي ويصبح مسلمًا سنيًا ويغير اسمه إلى الحاج مالك الشباز. اغتيل في 21 فبراير 1965",
       "servers": [
         {
-          "name": "سيرفر A (جودة عالية)",
-          "url": "https://egy36dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00106/6mxk842hyhzi_,l,n,h,.urlset/master.m3u8?t=1tGvsNZf27-9nRITSGtsO7cSiGgpnbUgR-tNzjwgGnI&s=1757959024&e=43200&f=532440&i=0.0&sp=0"
+          "name": "سيرفر A (720 جودة عالية)",
+          "url": "https://af3.downet.net/download/1758713471/68d284ff557e7/Malcolm.X.1992.720p.BluRay.aflaam.com.mp4"
         },
         {
-          "name": "سيرفر B (جودة متوسطة)",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          "name": "سيرفر B (480 جودة متوسطة)",
+          "url": "https://af3.downet.net/download/1758713445/68d284e5aded8/Malcolm.X.1992.480p.BluRay.aflaam.com.mp4"
         }
       ]
     },
