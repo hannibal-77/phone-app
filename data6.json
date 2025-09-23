@@ -35,14 +35,19 @@
     },
     {
       "id": "movie-03",
-      "title": "خيال علمي: بوابة النجوم",
-      "poster": "https://picsum.photos/seed/json3/400/600",
-      "description": "فريق من المستكشفين يعثرون على بوابة أثرية تنقلهم إلى مجرة بعيدة مليئة بالعجائب والأخطار.",
+      "title": "Sicario: Day of the Soldado",
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/qTrPz.jpeg",
+      "description": "في هذه المغامرة / الدراما ، يجند عميل مكتب التحقيقات الفدرالي مات جرافر (جوش برولين) عميلًا غامضًا للمساعدة في التحقيق في عصابة مخدرات مكسيكية تم تهريب إرهابيين إلى الولايات المتحدة تتصاعد عندما يتم اختطاف ابنة أحد كبار القادة ، مما يجبر غرافر وشريكه لإعادة تقييم مهمتهم",
       "servers": [
         {
-          "name": "شاهد الآن (سيرفر 1)",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          "name": "سيرفر A (720 جودة عالية)",
+          "url": "https://af2.downet.net/download/1758740321/68d2ede104fa2/Sicario.Day.Of.The.Soldado.2018.720p.BluRay.aflaam.com.mp4"
+        },
+        {
+          "name": "سيرفر B (480 جودة متوسطة)",
+          "url": "https://af2.downet.net/download/1758740324/68d2ede45b1f5/Sicario.Day.Of.The.Soldado.2018.480p.BluRay.aflaam.com.mp4"
         }
+
       ]
     },
     {
