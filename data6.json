@@ -129,35 +129,35 @@
       ]
     },
     {
-      "id": "series-02",
-      "title": "مسلسل تاريخي: صعود الإمبراطورية",
-      "poster": "https://picsum.photos/seed/jsons2/400/600",
-      "description": "ملحمة تاريخية تروي قصة صعود وسقوط إمبراطورية قديمة عبر الأجيال.",
+      "id": "series-02","rating": 8.0,
+      "title": "The Blacklist 6",
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/0U1Lv.jpeg",
+      "description": "يُزعم أن "ريد" ريدنجتون ، رجل الأعمال شديد الوضوح والمعرفة والذكاء والعقل المدبر ، كان مدرجًا في "قائمة المطلوبين العشر" للعديد من وكالات إنفاذ القانون الأمريكية لأكثر من 20 عامًا. الأسطورة هي أن Red بعيد المنال بقدر ما هو ذكي ، يتحكم في متاهة من المشاريع الإبداعية ، إلى جانب القدرة الخارقة على جمع المعلومات والبراعة عند سقوط قبعة. في اليوم الأول في مكتب التحقيقات الفيدرالي (FBI) للحصول على ملف تعريف أنثى جديد حديثًا من كوانتيكو ، يعرض Red على ذكاء عصبي مع مكتب التحقيقات الفيدرالي. يعد Red بتقديم العديد من المجرمين والمؤامرات التي لم تكن معروفة من قبل لأي فرع من فروع إنفاذ القانون ... وكل طلبات Red في المقابل هي اختيار مصدر إلهامه.",
       "seasons": [
         {
           "season_number": 1,
           "episodes": [
             {
-              "name": "الحلقة 1: البدايات",
-              "url": "https://www.youtube.com/watch?v=6z2y4kv4z0I"
+              "name": "الحلقة: 1 Dr. Hans Koehler (No. 33)",
+              "url": "https://af1.downet.net/download/1758831433/68d451c9e020c/The.Blacklist.S06E01.Dr..Hans.Koehler.720.BluRay.aflaam.com.mp4"
             },
             {
-              "name": "الحلقة 2: التوسع",
-              "url": "https://www.youtube.com/watch?v=Cma-w_HhX_s"
+              "name": "الحلقة: 2 The Corsican (No. 20)",
+              "url": "https://af1.downet.net/download/1758831556/68d452448ee61/The.Blacklist.S06E02.The.Corsican.720.BluRay.aflaam.com.mp4"
             },
             {
-              "name": "الحلقة 3: الخيانة",
-              "url": "https://www.youtube.com/watch?v=M7lc1qf-sqo"
+              "name": "االحلقة: 3 The Pharmacist (No. 124)",
+              "url": "https://af1.downet.net/download/1758831772/68d4531c7ac8a/The.Blacklist.S06E03.The.Pharmacist.720.BluRay.aflaam.com.mp4"
             }
           ]
         }
       ]
     },
     {
-      "id": "series-03",
-      "title": "مسلسل قصير: الرحلة الأخيرة",
-      "poster": "https://picsum.photos/seed/jsons3/400/600",
-      "description": "مسلسل قصير من 4 حلقات يتابع مجموعة من الأصدقاء في رحلة أخيرة قبل أن تفرقهم الحياة.",
+      "id": "series-03","rating": 8.8,
+      "title": "Peaky Blinders 1",
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/50aju.jpeg",
+      "description": "تدور أحداث المسلسل في إنجلترا وتحديدًا في مدينة “Birmingham” في بدايات القرن العشرين وتحديدًا بعد الحرب العالمية الأولى بقليل عام 1919 حيث نتعرف على عصابة “Peaky Blinders” التي يقودها “Tommy Shelby” ويساعده إشقاءه “Arthur”، و”John”، و”Finn”. العصابة مكونة من عدد كبير من الأفراد لهم هيكل تنظيمي معين، ونظام إداري كبير وضعه “Tommy” وتعمل في الخمور والسلاح والرهانات.",
       "seasons": [
         {
           "season_number": 1,
