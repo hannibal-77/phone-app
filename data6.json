@@ -77,7 +77,22 @@
         {
           "name": "سيرفر B (480 جودة متوسطة)",
           "url": "https://af2.downet.net/download/1758828053/68d444955d3c9/Wind.River.2017.480p.BluRay.aflaam.com.mp4"
+        },
+{
+      "id": "movie-05", "rating": 7.4,
+      "title": "Molly's Game",
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/QlKeU.jpeg",
+      "description": "قامت مولي بلوم ، المتزلجة الشابة الجميلة من الدرجة الأولمبية ، بتشغيل أكثر ألعاب البوكر حصرية في العالم لمدة عشر سنوات قبل أن يتم القبض عليها في منتصف الليل من قبل 17 من عملاء مكتب التحقيقات الفيدرالي الذين يستخدمون أسلحة آلية. كان من بين لاعبيها ملوك هوليوود ونجوم الرياضة وعمالقة الأعمال ، وأخيراً ، دون علمها ، الغوغاء الروس. كان حليفها الوحيد هو محامي الدفاع الجنائي تشارلي جافي ، الذي علم أن مولي أكثر بكثير مما قادتنا الصحف الشعبية إلى الاعتقاد. ",
+      "servers": [
+        {
+          "name": "سيرفر A (480 جودة عالية)",
+          "url": "https://af1.downet.net/download/1758828931/68d4480372547/Mollys.Game.2017.480p.BluRay.aflaam.com.mp4"
+        },
+        {
+          "name": "سيرفر B (720 جودة متوسطة)",
+          "url": "https://af1.downet.net/download/1758828931/68d44803ae740/Mollys.Game.2017.720p.BluRay.aflaam.com.mp4"
         }
+
 
       ]
     }
@@ -171,7 +186,7 @@
   "sports": {
     "live": [
       {
-        "title": "munchester city Vs napoli",
+        "title": "Munchester city Vs Napoli",
         "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKJniS3PYi_ukmISTGQA-Hy0iZMyP__Ptr_48_968bYAmNw9wAamrYcEEW7IvtM2f6cU8Vbr7maDeM1DlmZ3W59huOSsk5p42gwtwCNI4BJ6QdGt4dGOjStQCH3xvSw1dDhocRkH4KgOQza0rAik5SuNjjiXRMwXZabExWB5fpuj5eHK7_ezXqXKyymdX/s320-rw/342487.webp",
         "description": "مباراة مانشستر سيتي و نابولي دوري ابطال اوروبا 2026",
         "servers": [
