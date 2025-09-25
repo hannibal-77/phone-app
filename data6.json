@@ -301,6 +301,52 @@
       ]
     },
     {
+      "id": "series-03",
+      "title": "La Casa de Papel", "rating": 8.5, "year": 2019,
+      "poster": "https://images.aflaam.com/thumb/w370/uploads/SWMWq.jpeg",
+      "description": "يجمع حادث مجموعة من الشخصيات بمحض الصدفة، وسط العديد من الضغوطات والكوابيس والديون التي تُسيطر على عوالمهم، وبمرور الوقت تصبح حياتهم مرتبطة ببعضهم البعض.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "name": "الحلقة: 1 Efectuar lo acordado",
+              "url": "https://af2.downet.net/download/1758910479/68d5868f648e4/La.Casa.de.Papel.S01E01.720p.NF.WEB-DL.aflaam.com.mp4"
+            },
+            {
+              "name": "Karma الحلقة 2: ",
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnpd2lcmi3hdr7ecykkh22fvtgpqsjlej2qhejbgfnxjte4hhbl7xm4qeszfn3m5hcwuag3/video.mp4"
+            },
+        {
+              "name": "Karma الحلقة 3: ",
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnmj2lcmi3hdr7ecyklhkknx6gk3pgonndpl6gm5f6i2z26usrh76mpwt764uu5d4b4pyun/video.mp4"
+            },
+         {
+              "name": "Karma الحلقة 4: ",
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+            },
+         {
+              "name": "Karma الحلقة 5: ",
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+            },
+           {
+              "name": "Karma الحلقة 6: ",
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+            }
+           ]
+          },  
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "name": "الحلقة 1: عودة الظلال",
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnpd2lcmi3hdr7ecykkh22fvtgpqsjlej2qhejbgfnxjte4hhbl7xm4qeszfn3m5hcwuag3/video.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "series-04",
       "title": "The Blacklist 6", "rating": 8.0, "year": 2019,
       "poster": "https://images.aflaam.com/thumb/w370/uploads/0U1Lv.jpeg",
