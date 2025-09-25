@@ -259,17 +259,8 @@
             }
           ]
         },
-        {
-          "season_number": 2,
-          "episodes": [
-            {
-              "name": "الحلقة 1: عودة الظلال",
-              "url": "https://www.dailymotion.com/video/x7p62z1"
-            }
           ]
-        }
-      ]
-    },
+    }
     {
       "id": "series-03",
       "title": "Karma", "rating": 7.8, "year": 2025,
