@@ -141,7 +141,7 @@
           "episodes": [
             {
               "name": "الحلقة 1: القضية الأولى",
-              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnckedcmi3hdr7ecykkvnsmwumejbmx532ipdc3eck5pehnw7jgnsx3le7ji6ui6xitmuxa/video.mp4"
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnckedcmi3hdr7ecykkvnsmwumejbmx532ipdc3eck5pehj5lgbkxm73hg3u5x3a2m23wpt/video.mp4"
             },
             {
               "name": "الحلقة 2: الشاهد الصامت",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "id": "series-01",
+      "id": "series-02",
       "title": "Karma", "rating": 7.8, "year": 2025,
       "poster": "https://fr.web.img6.acsta.net/img/88/26/882682473a111bea0a5f70c31ca415e1.jpg",
       "description": "يجمع حادث مجموعة من الشخصيات بمحض الصدفة، وسط العديد من الضغوطات والكوابيس والديون التي تُسيطر على عوالمهم، وبمرور الوقت تصبح حياتهم مرتبطة ببعضهم البعض.",
@@ -171,20 +171,36 @@
           "episodes": [
             {
               "name": "الحلقة 1: القضية الأولى",
-              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvm2wcls34zbzwlxykxeaxbrv/video.mp4"
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
             },
             {
               "name": "الحلقة 2: الشاهد الصامت",
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnpd2lcmi3hdr7ecykkh22fvtgpqsjlej2qhejbgfnxjte4hhbl7xm4qeszfn3m5hcwuag3/video.mp4"
+            },
+        {
+              "name": "الحلقة 3: القضية الأولى",
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+            },
+         {
+              "name": "الحلقة 4: القضية الأولى",
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+            },
+         {
+              "name": "الحلقة 5: القضية الأولى",
+              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+            },
+           {
+              "name": "الحلقة 6: القضية الأولى",
               "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
             }
-          ]
-        },
+           ]
+          },  
         {
           "season_number": 2,
           "episodes": [
             {
               "name": "الحلقة 1: عودة الظلال",
-              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22njp2lcmi3hdr7ef4kl3iqmxhg7lebfx5xqu7z25dpt4dmnlyuhasjwy4jxhyrbuuelijkp/video.mp4"
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnpd2lcmi3hdr7ecykkh22fvtgpqsjlej2qhejbgfnxjte4hhbl7xm4qeszfn3m5hcwuag3/video.mp4"
             }
           ]
         }
