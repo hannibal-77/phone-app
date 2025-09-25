@@ -132,7 +132,7 @@
   "series": [
     {
       "id": "series-01",
-      "title": "Breaking Bad", "rating": 8.8, "year": 2012,
+      "title": "Breaking Bad 1", "rating": 8.8, "year": 2012,
       "poster": "https://images.aflaam.com/thumb/w370/uploads/VFgNI.jpeg",
       "description": "عندما يتم تشخيص مدرس الكيمياء والتر وايت بسرطان المرحلة الثالثة ولم يعط سوى عامين للعيش فيه ، يقرر أنه ليس لديه ما يخسره. يعيش مع ابنه المراهق ، الذي يعاني من الشلل الدماغي ، وزوجته ، في نيو مكسيكو. مصممًا على ضمان أن يكون لعائلته مستقبل آمن ، يشرع والت في مهنة المخدرات والجريمة. لقد أثبت أنه بارع في هذا العالم الجديد حيث بدأ في تصنيع وبيع الميتامفيتامين مع أحد طلابه السابقين. تتعقب السلسلة آثار التشخيص القاتل على رجل منتظم يعمل بجد ، وتستكشف كيف يؤثر التشخيص القاتل على أخلاقه ويحوله إلى لاعب رئيسي في تجارة المخدرات",
       "seasons": [
@@ -140,12 +140,32 @@
           "season_number": 1,
           "episodes": [
             {
-              "name": "الحلقة 1: القضية الأولى",
-              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnckedcmi3hdr7ecykkvnsmwumejbmx532ipdc3eck5pehj5lgbkxm73hg3u5x3a2m23wpt/video.mp4"
+              "name": "الحلقة: 1 Pilot",
+              "url": "https://af3.downet.net/download/1758903445/68d56b15ec36e/Breaking.Bad.S01E01.Pilot.720p.BluRay.Aflaam.com-1.mp4"
             },
             {
-              "name": "الحلقة 2: الشاهد الصامت",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+              "name": "الحلقة: 2 Cat's in the Bag...",
+              "url": "https://af3.downet.net/download/1758903527/68d56b6702463/Breaking.Bad.S01E02.Cats.in.the.Bag....1080p.Aflaam.com.mp4"
+            },
+            {
+              "name": "الحلقة: 3 ...And the Bag's in the River",
+              "url": "https://af3.downet.net/download/1758903620/68d56bc42b25f/Breaking.Bad.S01E03....And.the.Bags.in.the.River.720p.BluRay.Aflaam.com-3.mp4"
+            },
+            {
+              "name": "الحلقة: 4 Cancer Man",
+              "url": "https://af3.downet.net/download/1758903714/68d56c22aa2e7/Breaking.Bad.S01E04.Cancer.Man.720p.BluRay.Aflaam.com-4.mp4"
+            },
+            {
+              "name": "االحلقة: 5 Gray Matter",
+              "url": "https://af3.downet.net/download/1758903907/68d56ce332dc0/Breaking.Bad.S01E05.Gray.Matter.720p.BluRay.Aflaam.com-5.mp4"
+            },
+            {
+              "name": "الحلقة: 6 Crazy Handful of Nothin'",
+              "url": "https://af3.downet.net/download/1758903993/68d56d39c41bf/Breaking.Bad.S01E06.Crazy.Handful.of.Nothin.720p.BluRay.Aflaam.com-6.mp4"
+            },
+            {
+              "name": "الحلقة: 7 A No-Rough-Stuff-Type Deal",
+              "url": "https://af3.downet.net/download/1758904049/68d56d7165c32/Breaking.Bad.S01E07.A.No-Rough-Stuff-Type.Deal.720p.BluRay.Aflaam.com-7.mp4"
             }
           ]
         },
@@ -170,27 +190,27 @@
           "season_number": 1,
           "episodes": [
             {
-              "name": "الحلقة 1: القضية الأولى",
-              "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
+              "name": "Karma الحلقة 1: ",
+              "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnm72lcmi3hdr7ecykof3a7w5uafdwhqdsncovbyb3gbybtsh7jwuszsxkg2gc7bxywwvvk/video.mp4"
             },
             {
-              "name": "الحلقة 2: الشاهد الصامت",
+              "name": "Karma الحلقة 2: ",
               "url": "https://dayt-fer-o14.gamescdn.online:183/d/3gnpd2lcmi3hdr7ecykkh22fvtgpqsjlej2qhejbgfnxjte4hhbl7xm4qeszfn3m5hcwuag3/video.mp4"
             },
         {
-              "name": "الحلقة 3: القضية الأولى",
+              "name": "Karma الحلقة 3: ",
               "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
             },
          {
-              "name": "الحلقة 4: القضية الأولى",
+              "name": "Karma الحلقة 4: ",
               "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
             },
          {
-              "name": "الحلقة 5: القضية الأولى",
+              "name": "Karma الحلقة 5: ",
               "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
             },
            {
-              "name": "الحلقة 6: القضية الأولى",
+              "name": "Karma الحلقة 6: ",
               "url": "https://dayt-fer-o17.gamescdn.online:183/d/22nil2lcmi3hdr7ef4kovpiyucvzxttyu4rxyu4sqju6fhebvogp7s23nm65opulmr6nn623/video.mp4"
             }
            ]
